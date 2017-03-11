@@ -1,3 +1,4 @@
+<img src="http://triangleruby.com/assets/images/logo-bd531bd4.png" width='100px'/>
 # Triangle.rb Policies
 
 Documentation for Code of Conduct, speaker guidelines and other knowledge for
