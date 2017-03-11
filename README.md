@@ -1,14 +1,15 @@
-<img src="http://triangleruby.com/assets/images/logo-bd531bd4.png" width='100px'/>
-# Triangle.rb Policies
+# Triangle Devs Slack Channel Policies
 
-Documentation for Code of Conduct, speaker guidelines and other knowledge for
-Triangle.rb organizers.
+Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](https://triangle-devs-slack-inviter.herokuapp.com/).
 
-## Organizers
+## Admins
 
 * Brandon Mathis
   * [GitHub](https://github.com/BrandonMathis)
   * [Email](mailto:bemathis@gmail.com)
+* TJ Stankus
+  * [GitHub](https://github.com/tjstankus)
+  * [Email](mailto:tjstankus@gmail.com)
 * Nathan L. Walls
   * [GitHub](https://github.com/base10)
   * [Email](mailto:nathan@wallscorp.us)
@@ -16,23 +17,23 @@ Triangle.rb organizers.
 ## Policies
 
 * [Code of Conduct][conduct]
-* [Guidelines for Speakers][speakers]
+* [Guidelines for Admins][speakers]
 
 ## High-level code of conduct
 
-Triangle.rb is dedicated to providing a harassment-free community experience
+The TriangleDevs Slack is dedicated to providing a harassment-free community experience
 for everyone, regardless of gender, gender identity and expression, sexual
 orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment of community participants in any form.
 
 Community participants violating these rules may be sanctioned or expelled from
-the community at the discretion of the organizers.
+the community at the discretion of the admins.
 
 Our anti-harassment policy can be found [here][conduct]
 
 ## Updates
 
-Policy changes are generally made by one of the Triangle.rb organizers,
+Policy changes are generally made by members of the admin team
 listed above but PR submissions from the community are welcome.
 
 All changes should be made by creating a new branch, making the desired changes,
