@@ -6,7 +6,7 @@ Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](h
 
 [Admins Group Email](mailto:trianglerb-organizers@googlegroups.com)
 
-These people are labeled as "Admins" on this slack. They are a combination of organizers and influencers in the NC Triangle area as well as individuals that help us enforce or [Code of Conduct](code-of-conduct)
+These people are labeled as "Admins" on this slack. They are a combination of organizers and influencers in the NC Triangle area as well as individuals that help us enforce or [Code of Conduct][conduct]
 
 * [Brandon Mathis](https://triangledevs.slack.com/messages/@brandonmathis/)
 * [TJ Stankus](https://triangledevs.slack.com/messages/@tjstankus/)
