@@ -15,7 +15,7 @@ Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](h
 ## Policies
 
 * [Code of Conduct][conduct]
-* [Guidelines for Admins][speakers]
+* [Guidelines for Admins][conduct-organizers]
 
 ## Default Channels
 
@@ -43,4 +43,4 @@ Policy changes are generally made by members of the admin team listed above but 
 All changes should be made by creating a new branch, making the desired changes, then opening a pull request for feedback. Please tag one of the organizers for a review.
 
 [conduct]: code-of-conduct.md
-[speakers]: speaking-guidelines.md
+[conduct-organizers]: conduct-organizers.md
