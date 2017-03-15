@@ -17,7 +17,7 @@ Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](h
 ## Policies
 
 * [Code of Conduct][conduct]
-* [Guidelines for Admins][speakers]
+* [Guidelines for Admins][conduct-organizers]
 
 ## High-level code of conduct
 
@@ -41,4 +41,4 @@ then opening a pull request for feedback. Please tag one of the organizers for
 a review.
 
 [conduct]: code-of-conduct.md
-[speakers]: speaking-guidelines.md
+[conduct-organizers]: conduct-organizers.md
