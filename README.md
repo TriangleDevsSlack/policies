@@ -6,11 +6,16 @@ Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](h
 
 [Admins Group Email](mailto:trianglerb-organizers@googlegroups.com)
 
+These people are labeled as "Admins" on this slack. They are a combination of organizers and influencers in the NC Triangle area as well as individuals that help us enforce or [Code of Conduct](code-of-conduct)
+
 * [Brandon Mathis](https://triangledevs.slack.com/messages/@brandonmathis/)
 * [TJ Stankus](https://triangledevs.slack.com/messages/@tjstankus/)
 * [Nathan L. Walls](https://triangledevs.slack.com/messages/@nathan/)
+* [Lori Evans](https://triangledevs.slack.com/messages/@evans025/)
 * [Jordan Reuter](https://triangledevs.slack.com/messages/@jreut/)
 * [Nate Kohari](https://triangledevs.slack.com/messages/@nkohari/)
+* [Wade Minter](https://triangledevs.slack.com/messages/@minter/)
+* [Michael Stalker](https://triangledevs.slack.com/messages/@michaelstalker/)
 
 ## Policies
 
