@@ -19,14 +19,14 @@ Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](h
 
 ## Default Channels
 
-[#ask4help](https://triangledevs.slack.com/messages/ask4help/)
-[#culture](https://triangledevs.slack.com/messages/culture/)
-[#ruby](https://triangledevs.slack.com/messages/ruby/)
-[#javascript](https://triangledevs.slack.com/messages/javascript/)
-[#elixir](https://triangledevs.slack.com/messages/elixir/)
-[#jobs](https://triangledevs.slack.com/messages/jobs/)
-[#random](https://triangledevs.slack.com/messages/random/)
-[#general](https://triangledevs.slack.com/messages/general/)
+* [#ask4help](https://triangledevs.slack.com/messages/ask4help/)
+* [#culture](https://triangledevs.slack.com/messages/culture/)
+* [#ruby](https://triangledevs.slack.com/messages/ruby/)
+* [#javascript](https://triangledevs.slack.com/messages/javascript/)
+* [#elixir](https://triangledevs.slack.com/messages/elixir/)
+* [#jobs](https://triangledevs.slack.com/messages/jobs/)
+* [#random](https://triangledevs.slack.com/messages/random/)
+* [#general](https://triangledevs.slack.com/messages/general/)
 
 ## High-level code of conduct
 
