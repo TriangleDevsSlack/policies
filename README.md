@@ -32,6 +32,7 @@ These people are labeled as "Admins" on this slack. They are a combination of or
 * [#jobs](https://triangledevs.slack.com/messages/jobs/)
 * [#random](https://triangledevs.slack.com/messages/random/)
 * [#general](https://triangledevs.slack.com/messages/general/)
+* [#chat](https://triangledevs.slack.com/messages/chat/)
 
 ## High-level code of conduct
 
