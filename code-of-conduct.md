@@ -1,6 +1,6 @@
 # Triangle Devs Slack Code of Conduct
 
-The Triangle Devs Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.  We do not tolerate harassment of community participants in any form.  
+The Triangle Devs Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, country of origin, age or religion.  We do not tolerate harassment of community participants in any form.  
 
 Community participants and admins violating these rules may be sanctioned or expelled from the community at the discretion of the admin team.
 
