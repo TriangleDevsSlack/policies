@@ -10,6 +10,10 @@ These people are labeled as "Admins" on this slack. They are a combination of or
 
 * [Brandon Mathis](https://triangledevs.slack.com/messages/@brandonmathis/)
 * [TJ Stankus](https://triangledevs.slack.com/messages/@tjstankus/)
+* [Julie David](https://triangledevs.slack.com/messages/@juliedavid/)
+* [Brian Adkins](https://triangledevs.slack.com/messages/@badkins/)
+* [Jessa Pearce](https://triangledevs.slack.com/messages/@jesseract/)
+* [Ruthan Freese](https://triangledevs.slack.com/messages/@ruthan/)
 * [Nathan L. Walls](https://triangledevs.slack.com/messages/@nathan/)
 * [Lori Evans](https://triangledevs.slack.com/messages/@evans025/)
 * [Jordan Reuter](https://triangledevs.slack.com/messages/@jreut/)
