@@ -2,6 +2,8 @@
 
 Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](https://triangle-devs-slack-inviter.herokuapp.com/).
 
+Inspired by the [TriangleDevOps Policies Repo](https://github.com/TriangleDevOps/policies)
+
 ## Admins
 
 [Admins Group Email](mailto:trianglerb-organizers@googlegroups.com)
