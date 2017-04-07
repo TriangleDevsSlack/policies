@@ -2,7 +2,7 @@
 
 The Triangle Devs Slack is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, country of origin, age or religion.  We do not tolerate harassment of community participants in any form.  
 
-Community participants and admins violating these rules may be sanctioned or expelled from the community at the discretion of the admin team.
+These rules apply to all public channels in the Triangle Devs Slack, as well as any unsolicited or unwanted private communication. Community participants and admins violating these rules may be sanctioned or expelled from the community at the discretion of the admin team.
 
 Harassment includes, but is not limited to:
 
