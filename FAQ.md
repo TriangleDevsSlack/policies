@@ -4,7 +4,7 @@ No
 
 ## Can I become an admin?
 
-Sure! Sign-up here and email [Brandon Mathis](mailto:bemathis@gmail.com)
+If you wish to become an admin, please [email the admin-team](<triangledevs-slack@googlegroups.com>).
 
 ## Can I make job postings in this slack?
 
