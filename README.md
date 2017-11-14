@@ -27,9 +27,11 @@ These people are labeled as "Admins" on this slack. They are a combination of or
 
 * [Code of Conduct][conduct]
 * [Guidelines for Admins][conduct-organizers]
+* [Individual Channel Policies][channel-policies]
 
 ## Default Channels
 
+* [#announcements](https://triangledevs.slack.com/messages/announcements/)
 * [#ask4help](https://triangledevs.slack.com/messages/ask4help/)
 * [#culture](https://triangledevs.slack.com/messages/culture/)
 * [#ruby](https://triangledevs.slack.com/messages/ruby/)
