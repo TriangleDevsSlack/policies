@@ -27,7 +27,7 @@ These people are labeled as "Admins" on this slack. They are a combination of or
 
 * [Code of Conduct][conduct]
 * [Guidelines for Admins][conduct-organizers]
-* [Individual Channel Policies][channel-policies]
+* [Individual Channel Policies](https://github.com/TriangleDevsSlack/policies/blob/master/channel-policies.md)
 
 ## Default Channels
 
