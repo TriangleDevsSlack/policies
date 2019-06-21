@@ -15,7 +15,10 @@ Here you can find postings for development jobs in the Triangle area
 
 Rules:
 
-1. Job postings are for direct-hire only. No recruiters
-2. If are a recruiter, you can post to [#jobs-recruiters](https://triangledevs.slack.com/messages/jobs-recruiters/)
-3. All jobs-related chat belongs in [#jobs-chat](https://triangledevs.slack.com/messages/jobs-chat/)
+1. Do not send unsolicited DMs to members about job openings
+1. Posts from recruiters looking for candidates to fill a position go in [#jobs-recruiters](https://triangledevs.slack.com/messages/jobs-recruiters/)
+1. Posts directly from companies looking to hire or devs looking for a position go in [#jobs](https://triangledevs.slack.com/messages/job)
+1. Posts looking for short-term contractors or freelancers go in [#freelance-gigs](https://triangledevs.slack.com/messages/freelance-gigs/)
+1. General jobs chatter must happen in [#jobs-chat](https://triangledevs.slack.com/messages/jobs-chat/)
+
 
