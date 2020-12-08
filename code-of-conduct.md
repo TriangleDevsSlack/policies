@@ -11,6 +11,7 @@ Harassment includes, but is not limited to:
   physical appearance, body size, race, age, or religion.
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following
+* Insults in public or private channels
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Inappropriate physical contact
