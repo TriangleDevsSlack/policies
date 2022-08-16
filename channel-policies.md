@@ -2,6 +2,11 @@
 
 This document contains policies that relate to specific channels in the [Triangle Devs Slack](http://triangledevslack.com)
 
+**General Slack Organization Rules**
+1. Do not send unsolicited DMs or emails to members offering recruiting or agency services
+2. Do not send unsolicited DMs advertising open job positions you are recruiting for
+3. Job postings from recruiters or 3rd party placemnt firms are only permitted in the #jobs-recruiters channel
+
 
 ## [#announcements](https://triangledevs.slack.com/messages/jobs/)
 Announcements is a general-use area where anyone can post a link to a dev-related event happening in the NC Triangle Area. 
