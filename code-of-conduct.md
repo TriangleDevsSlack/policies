@@ -34,6 +34,7 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 
 * Feel free to DM any of the admins at any time
 * [Emailing the admin team](mailto:triangledevs-slack@googlegroups.com)
+* If harrassment is occurring in a public channel, you can notify all admins with `@admins`
 
 When taking a report, our staff will work to ensure you are safe and cannot be overheard. You won't be asked to confront anyone and we won't tell anyone who you are.
 
