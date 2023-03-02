@@ -1,6 +1,6 @@
 # Triangle Devs Slack Channel Policies
 
-Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](https://triangle-devs-slack-inviter.herokuapp.com/).
+Documentation, Info, and Code of Conduct for the [Triangle Devs Slack Channel](https://triangledevslack.com/).
 
 :round_pushpin: Please review our community-managed [channel policies](https://github.com/TriangleDevsSlack/policies/blob/master/channel-policies.md#channel-policies) and [code of conduct][conduct] before posting in the slack
 
