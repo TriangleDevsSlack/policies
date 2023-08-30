@@ -13,6 +13,7 @@ Local conferences, meetups, industry events, and more.
 - [Cloud Security Alliance Triange Chapter](https://www.meetup.com/cloud-security-alliance-triangle-chapter/) meets throughout the Triangle.
 - [Triangle AWS User Group](https://www.meetup.com/AWS-Raleigh/) meets throughout the Triangle.
 - [Raleigh HashiCorp User Group](https://www.meetup.com/Raleigh-HashiCorp-User-Group/) meets throughout the Triangle.
+- [North American DevOps Group](https://www.eventbrite.com/o/nadog-14929911903) meets semi-regularly in Raleigh.
 
 ### Annual Conferences
 
