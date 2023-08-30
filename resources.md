@@ -14,6 +14,7 @@ Local conferences, meetups, industry events, and more.
 - [Triangle AWS User Group](https://www.meetup.com/AWS-Raleigh/) meets throughout the Triangle.
 - [Raleigh HashiCorp User Group](https://www.meetup.com/Raleigh-HashiCorp-User-Group/) meets throughout the Triangle.
 - [North American DevOps Group](https://www.eventbrite.com/o/nadog-14929911903) meets semi-regularly in Raleigh.
+- [Durham Social Hack Night](https://www.meetup.com/durham-social-hack-night/) meets monthly in Durham.
 
 ### Annual Conferences
 
