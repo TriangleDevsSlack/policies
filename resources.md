@@ -19,3 +19,4 @@ Local conferences, meetups, industry events, and more.
 
 - [DevOpsDays](https://devopsdays.org/) comes to Raleigh annually in spring.
 - [All Things Open](https://www.allthingsopen.org/) is hosted in Raleigh annually in autumn.
+- [BSides RDU](https://bsidesrdu.org/) is hosted in Raleigh annually in autumn.
